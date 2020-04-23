@@ -1,10 +1,10 @@
 {
-  "name": "Webpack-Mini-Course",
+  "name": "WebpackMiniCourse",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
